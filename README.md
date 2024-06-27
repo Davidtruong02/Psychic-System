@@ -1,1 +1,1 @@
-# psychic-System
+# Psychic-System
